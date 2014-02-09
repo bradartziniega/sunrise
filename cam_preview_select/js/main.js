@@ -5,34 +5,25 @@ $(document).ready(function() {
   var output_object = [];
 
 	$('#btn').click(function(){  
-    //console.log(output_object);
-		//console.log(json_data[cur_item].htmlfile);
 		$('#d_content').load(json_data[cur_item].htmlfile);
     $('#name').html(json_data[cur_item].htmlfile);
   });
 
   $('#btnGood').click(function(){
-      
     output_object.push({data: json_data[cur_item], to_use: 'good'})
-    //console.log('good');
     cur_item+=1;
     $('#btn').click();
-
   });
 
   $('#btnBad').click(function(){
-    
     output_object.push({data: json_data[cur_item], to_use: 'bad'})
-    //console.log('bad');
     cur_item+=1;
     $('#btn').click();
   });
 
   $('#btnSave').click(function(){
-
     var data = JSON.stringify(output_object);
     console.log(data);
-
   });
 
 });
