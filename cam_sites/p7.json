@@ -1,0 +1,64 @@
+{
+  "collection1": [
+    {
+      "property1": {
+        "text": "EarthCam: Midtown NYC Skyline Cam",
+        "href": "http://www.earthcam.com/usa/newyork/midtown/skyline/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Budapest Cam",
+        "href": "http://www.earthcam.com/world/hungary/budapest/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: St. Patrick's Day Parade 2012",
+        "href": "http://www.earthcam.com/events/stpats/2012/?cam=nyc5th_stpats2012_hd"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Paterson Falls Cam",
+        "href": "http://www.earthcam.com/usa/newjersey/paterson/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Amman Citadel Cam",
+        "href": "http://www.earthcam.com/world/jordan/?cam=citadel"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Santa Fe Cam",
+        "href": "http://www.earthcam.com/usa/newmexico/santafe/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Sandestin Beach",
+        "href": "http://www.earthcam.com/usa/florida/destin/sandestinbeach/?cam=sandestin"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Gettysburg Battlefield Cam",
+        "href": "http://www.earthcam.com/usa/pennsylvania/gettysburg/?cam=gettysburg"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Hampton Beach Cam",
+        "href": "http://www.earthcam.com/usa/newhampshire/hamptonbeach/?cam=hamptonbeach"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Hawaii Surf Cam",
+        "href": "http://www.earthcam.com/usa/hawaii/kauai/koloa/"
+      }
+    }
+  ]
+}

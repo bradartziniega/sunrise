@@ -1,0 +1,64 @@
+{
+  "collection1": [
+    {
+      "property1": {
+        "text": "EarthCam: Moscow Skyline Cam",
+        "href": "http://www.earthcam.com/world/russia/moscow/?cam=moscow_hd"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Aruba Cam - Eagle Beach",
+        "href": "http://www.earthcam.com/world/aruba/bucutibeach/?cam=bucuti1"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Aruba Cam - Bucuti Beach Wing",
+        "href": "http://www.earthcam.com/world/aruba/bucutibeach/?cam=bucuti3"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Downtown Miami",
+        "href": "http://www.earthcam.com/usa/florida/miamiandthebeaches/?cam=miamibeach5"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Sao Paulo Terraco Italia Cam",
+        "href": "http://www.earthcam.com/world/brazil/saopaulo/?cam=terraco"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Miami News Cafe",
+        "href": "http://www.earthcam.com/usa/florida/miami/?cam=miami"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Eiffel Tower Streaming Cam",
+        "href": "http://www.earthcam.com/france/paris/?cam=eiffeltower_hd"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Niagara Falls Cam",
+        "href": "http://www.earthcam.com/canada/niagarafalls/?cam=niagarafalls_str"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: New Orleans Cats Meow Balcony",
+        "href": "http://www.earthcam.com/usa/louisiana/neworleans/bourbonstreet/?cam=catsmeow2"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Fort Myers Beach, The Palms",
+        "href": "http://www.earthcam.com/usa/florida/fortmyers/?cam=fort_myers_hd"
+      }
+    }
+  ]
+}

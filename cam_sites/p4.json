@@ -1,0 +1,64 @@
+{
+  "collection1": [
+    {
+      "property1": {
+        "text": "EarthCam: New Orleans Bourbon Street",
+        "href": "http://www.earthcam.com/usa/louisiana/neworleans/bourbonstreet/?cam=bourbonstreet"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Times Square South View",
+        "href": "http://www.earthcam.com/usa/newyork/timessquare/?cam=tstwo_hd"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Times Square Crossroads",
+        "href": "http://www.earthcam.com/usa/newyork/timessquare/?cam=tsrobo3"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Iceland Cam",
+        "href": "http://www.earthcam.com/world/iceland/hella/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Belmont Cam",
+        "href": "http://www.earthcam.com/usa/northcarolina/belmont/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Marina del Rey Cam",
+        "href": "http://www.earthcam.com/usa/california/losangeles/marinadelrey/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Kauai Cam",
+        "href": "http://www.earthcam.com/usa/hawaii/kauai/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: St. Barts Cam",
+        "href": "http://www.earthcam.com/frenchwestindies/stbarts/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Destin Cam",
+        "href": "http://www.earthcam.com/usa/florida/destin/?cam=destin"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Malta Cam",
+        "href": "http://www.earthcam.com/world/malta/valletta/?cam=malta"
+      }
+    }
+  ]
+}

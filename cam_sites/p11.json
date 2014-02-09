@@ -1,0 +1,28 @@
+{
+  "collection1": [
+    {
+      "property1": {
+        "text": "EarthCam: Sanibel Osprey Cam",
+        "href": "http://www.earthcam.com/usa/florida/sanibel/osprey/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Times Square Street Cam",
+        "href": "http://www.earthcam.com/usa/newyork/timessquare/?cam=tsstreet"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Atlantic City Boardwalk",
+        "href": "http://www.earthcam.com/usa/newjersey/atlanticcity/?cam=atlanticcity_hd"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Statue of Liberty HarborCam",
+        "href": "http://www.earthcam.com/usa/newyork/statueofliberty/?cam=liberty_hd"
+      }
+    }
+  ]
+}

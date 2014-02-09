@@ -1,0 +1,64 @@
+{
+  "collection1": [
+    {
+      "property1": {
+        "text": "EarthCam: St. Joseph Lighthouse Cam",
+        "href": "http://www.earthcam.com/usa/michigan/stjoseph/?cam=stjoelighthouse"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Sedona Seven Arches Cam",
+        "href": "http://www.earthcam.com/usa/arizona/sedona/sevenarches/?cam=sedona7"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Istanbul Cam",
+        "href": "http://www.earthcam.com/world/turkey/istanbul/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: San Juan Cam - Beach View",
+        "href": "http://www.earthcam.com/usa/puertorico/sanjuan/?cam=sanjuan1"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Sedona Red Rock Cam",
+        "href": "http://www.earthcam.com/usa/arizona/sedona/redrock/?cam=sedona_hd"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Transylvania Cam",
+        "href": "http://www.earthcam.com/world/romania/transylvania/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Lake Michigan Cam",
+        "href": "http://www.earthcam.com/usa/michigan/grandhaven/lakemichigan/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Boston Cam",
+        "href": "http://www.earthcam.com/usa/massachusetts/boston/?cam=boston_hd"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Holden Beach Cam",
+        "href": "http://www.earthcam.com/usa/northcarolina/supply/holden/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Aliso Beach Cam",
+        "href": "http://www.earthcam.com/usa/california/laguna/index.php?cam=vskimboardstcl"
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "collection1": [
+    {
+      "property1": {
+        "text": "EarthCam: Costa Rica Cam",
+        "href": "http://www.earthcam.com/world/costarica/playagrande/?cam=playagrande"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Las Vegas, New Mexico Cam",
+        "href": "http://www.earthcam.com/usa/newmexico/lasvegas/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCamTV",
+        "href": "http://www.earthcamtv.com"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Midtown Streaming Cam",
+        "href": "http://www.earthcam.com/usa/newyork/midtown/?cam=midtown_str"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Chicago Cam",
+        "href": "http://www.earthcam.com/usa/illinois/chicago/field/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Daytona Cam",
+        "href": "http://www.earthcam.com/usa/florida/daytona/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Corpus Christi Cam",
+        "href": "http://www.earthcam.com/usa/texas/corpuschristi/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Wolf Creek Ski Cam",
+        "href": "http://www.earthcam.com/usa/colorado/pagosasprings/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Algonquin Park Cam",
+        "href": "http://www.earthcam.com/world/canada/ontario/algonquinpark/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Allentown Falcon Cam",
+        "href": "http://www.earthcam.com/usa/pennsylvania/allentown/"
+      }
+    }
+  ]
+}

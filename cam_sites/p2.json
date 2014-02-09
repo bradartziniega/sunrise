@@ -1,0 +1,64 @@
+{
+  "collection1": [
+    {
+      "property1": {
+        "text": "EarthCam: Boracay Cam",
+        "href": "http://www.earthcam.com/world/philippines/boracay/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Hamburg Cam",
+        "href": "http://www.earthcam.com/world/germany/hamburg/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Thassos, Greece",
+        "href": "http://www.earthcam.com/greece/thassos/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: St. Louis Arch Cam",
+        "href": "http://www.earthcam.com/usa/missouri/stlouis/?cam=arch_riverview"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Palm Beach Cam",
+        "href": "http://www.earthcam.com/usa/florida/palmbeach/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Wrigley Field Cam",
+        "href": "http://www.earthcam.com/usa/illinois/chicago/wrigleyfield/?cam=wrigleyfield_hd"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Sao Paulo Cam",
+        "href": "http://www.earthcam.com/world/brazil/saopaulo/?cam=saopaulo"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Anguilla Cam",
+        "href": "http://www.earthcam.com/world/anguilla/meadsbay/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Boracay Island Cam",
+        "href": "http://www.earthcam.com/world/philippines/boracay/bolabogbay/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Lauderdale-By-The-Sea Beach",
+        "href": "http://www.earthcam.com/usa/florida/lauderdalebythesea/"
+      }
+    }
+  ]
+}

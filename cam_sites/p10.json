@@ -1,0 +1,64 @@
+{
+  "collection1": [
+    {
+      "property1": {
+        "text": "EarthCam: Dead Sea Cam",
+        "href": "http://www.earthcam.com/world/jordan/?cam=deadsea"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: San Juan Cam - Aerial View",
+        "href": "http://www.earthcam.com/usa/puertorico/sanjuan/?cam=sanjuan3"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Washington D.C.",
+        "href": "http://www.earthcam.com/usa/dc/washingtonmonument/?cam=washdc"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Aqaba Cam",
+        "href": "http://www.earthcam.com/world/jordan/?cam=aqaba"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Pacolet River",
+        "href": "http://www.earthcam.com/usa/southcarolina/spartanburg/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Seaside Park Cam",
+        "href": "http://www.earthcam.com/usa/newjersey/seasidepark/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Mulberry Street Cam",
+        "href": "http://www.earthcam.com/usa/newyork/littleitaly/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Seaside Heights Cam",
+        "href": "http://www.earthcam.com/usa/newjersey/seasideheights/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Brooklyn Bridge",
+        "href": "http://www.earthcam.com/usa/newyork/brooklynbridge/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Ma'in Hot Springs Cam",
+        "href": "http://www.earthcam.com/world/jordan/?cam=mainhotsprings"
+      }
+    }
+  ]
+}

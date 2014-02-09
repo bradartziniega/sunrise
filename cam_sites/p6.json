@@ -1,0 +1,64 @@
+{
+  "collection1": [
+    {
+      "property1": {
+        "text": "EarthCam: Hillsboro Lighthouse Cam",
+        "href": "http://www.earthcam.com/usa/florida/hillsboro/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Dublin Pub Cam",
+        "href": "http://www.earthcam.com/world/ireland/dublin/?cam=templebar"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Bognor Regis Cam",
+        "href": "http://www.earthcam.com/world/uk/bognorregis/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Statue of Liberty Streaming",
+        "href": "http://www.earthcam.com/usa/newyork/statueofliberty/?cam=liberty_str"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Punta del Este",
+        "href": "http://www.earthcam.com/uruguay/puntadeleste/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Steamtown Cam",
+        "href": "http://www.earthcam.com/usa/pennsylvania/scranton/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Everglades Cam",
+        "href": "http://www.earthcam.com/usa/florida/fortlauderdale/everglades/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Seattle Cam",
+        "href": "http://www.earthcam.com/usa/washington/seattle/?cam=seattleskyline"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Falcon Cam",
+        "href": "http://www.earthcam.com/usa/illinois/midwestgen/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Bali Elephant Cam Trail Path",
+        "href": "http://www.earthcam.com/indonesia/bali/?cam=bali1"
+      }
+    }
+  ]
+}

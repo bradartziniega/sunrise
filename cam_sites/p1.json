@@ -1,0 +1,64 @@
+{
+  "collection1": [
+    {
+      "property1": {
+        "text": "EarthCam: Miami Biscayne Bay Cam",
+        "href": "http://www.earthcam.com/usa/florida/miamiandthebeaches/?cam=miamibeach4"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Coconut Grove Marina Cam",
+        "href": "http://www.earthcam.com/usa/florida/miamiandthebeaches/?cam=miamibeach3"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Tokyo Cam",
+        "href": "http://www.earthcam.com/world/japan/tokyo/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Sunny Isles Beach Cam",
+        "href": "http://www.earthcam.com/usa/florida/miamiandthebeaches/?cam=miamibeach2"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Times Square 47th & Broadway",
+        "href": "http://www.earthcam.com/usa/newyork/timessquare/?cam=tsrobo1"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Hollywood Blvd Cam",
+        "href": "http://www.earthcam.com/usa/california/losangeles/hollywoodblvd/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Art Deco Webcam",
+        "href": "http://www.earthcam.com/usa/florida/miamiandthebeaches/?cam=miamibeach1"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Panama City Cam",
+        "href": "http://www.earthcam.com/usa/florida/panamacity/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Rio de Janeiro Cam",
+        "href": "http://www.earthcam.com/brazil/riodejaneiro/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Amsterdam Cam",
+        "href": "http://www.earthcam.com/world/netherlands/amsterdam/"
+      }
+    }
+  ]
+}

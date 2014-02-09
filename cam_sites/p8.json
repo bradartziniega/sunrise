@@ -1,0 +1,64 @@
+{
+  "collection1": [
+    {
+      "property1": {
+        "text": "EarthCam: Sydney Cam",
+        "href": "http://www.earthcam.com/world/australia/sydney/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Amman Cam",
+        "href": "http://www.earthcam.com/world/jordan/?cam=amman"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Petra Cam",
+        "href": "http://www.earthcam.com/world/jordan/?cam=petra"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Jordan Cams",
+        "href": "http://www.earthcam.com/world/jordan/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Bourbon Street Panorama",
+        "href": "http://www.earthcam.com/usa/louisiana/neworleans/bourbonstreet/?cam=catsmeow2_pano"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Sanibel Island Beach Cam",
+        "href": "http://www.earthcam.com/usa/florida/sanibel/"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: St. Croix Cam",
+        "href": "http://www.earthcam.com/usa/virginislands/stcroix/?cam=mmstcroix_hd"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Washington Monument Cam",
+        "href": "http://www.earthcam.com/usa/dc/washingtonmonument/?cam=dcmall"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Bali Elephant Cam Bathing Pool",
+        "href": "http://www.earthcam.com/indonesia/bali/?cam=bali2"
+      }
+    },
+    {
+      "property1": {
+        "text": "EarthCam: Anna Maria Island",
+        "href": "http://www.earthcam.com/usa/florida/annamariaisland/"
+      }
+    }
+  ]
+}
