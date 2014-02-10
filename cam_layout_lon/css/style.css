@@ -62,6 +62,7 @@ a#documentation {
     overflow: hidden;
     width: auto;
     display:block;
+    height: 50%;
 }
 
 .name_container {
@@ -79,4 +80,10 @@ a#documentation {
     margin-top: -25px;
     width: 960px;
 
+}
+
+#map-canvas{
+	height: 50%;
+	overflow: visible !important;
+	
 }

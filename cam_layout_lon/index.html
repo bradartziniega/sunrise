@@ -10,10 +10,14 @@
 	<script src="http://code.jquery.com/jquery.min.js"></script>
 	<script src="js/main.js"></script>
 	<script src="js/swfobject.js"></script>
+	<script type="text/javascript"
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB77UT0qfxJHcpA2fCaSjdsgfBj8KMmqV4&sensor=false">
+    </script>
+
 
 </head>
 
-<body>
+<body onload="initialize()">
 
 <div class="container">
 
@@ -24,6 +28,9 @@
 <div class="name_container">
 
 </div>
+
+<div id="map-canvas"/>
+
 
 </body>
 </html>

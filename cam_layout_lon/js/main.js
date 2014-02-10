@@ -14,13 +14,19 @@ $(window).scroll(function() {
   if((left-$('.container').width()+$(window).width())==0){
     //$(window).scrollLeft(0);
   }
+
+  //
+  $('#map-canvas').css({'margin-left':left});
+  $('#map-canvas').css({'margin-right':left/-1});
+
 });
 
 
 function initializeGrid(){
 
   $.getJSON( "http://localhost/~bsimpson/sunrise/cam_layout_lon/cam_to_use.json", function( data ) {
-    
+  //$.getJSON( "cam_to_use.json", function( data ) {
+  
     var sort_array = [];
 
     $.each( data, function( key, val ) {
@@ -33,6 +39,8 @@ function initializeGrid(){
     
     var numCams = 0;
     var lonSum = 100;
+    //3 is good
+    var lonDiff = 3;
     for( var i=1;i<sort_array.length;i++){
 
       if(i>0){
@@ -40,14 +48,11 @@ function initializeGrid(){
         var diff = Math.abs(data[sort_array[i].key]['data']['lon'] - data[sort_array[i-1].key]['data']['lon']);
         lonSum+=diff;
 
-        if(lonSum>=3){
-          console.log(lonSum);
+        if(lonSum>=lonDiff){
           lonSum=0;
           
           $('.container').append($('<div>').load(data[sort_array[i].key]['data']['htmlfile']));
-          $('.name_container').append($('<div class="cam_name">').html(data[sort_array[i].key]['data']['htmlfile']));
-
-          console.log(data[sort_array[i].key]['data']['htmlfile']);
+          $('.name_container').append($('<div class="cam_name">').html(data[sort_array[i].key]['data']['lat'] + ', ' + data[sort_array[i].key]['data']['lon']));
           numCams++;
 
         } 
@@ -62,3 +67,14 @@ function initializeGrid(){
 
 
 }
+
+
+function initialize() {
+  var mapOptions = {
+    center: new google.maps.LatLng(-34.397, 150.644),
+    zoom: 8
+  };
+  var map = new google.maps.Map(document.getElementById("map-canvas"),
+      mapOptions);
+}
+
