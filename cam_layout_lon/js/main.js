@@ -6,9 +6,16 @@ $(document).ready(function() {
   
   initializeGrid();
 
- 
 
 });
+
+$(window).scroll(function() {
+  var left = window.pageXOffset || document.documentElement.scrollLeft
+  if((left-$('.container').width()+$(window).width())==0){
+    //$(window).scrollLeft(0);
+  }
+});
+
 
 function initializeGrid(){
 
@@ -36,14 +43,19 @@ function initializeGrid(){
         if(lonSum>=3){
           console.log(lonSum);
           lonSum=0;
+          
           $('.container').append($('<div>').load(data[sort_array[i].key]['data']['htmlfile']));
+          $('.name_container').append($('<div class="cam_name">').html(data[sort_array[i].key]['data']['htmlfile']));
+
           console.log(data[sort_array[i].key]['data']['htmlfile']);
           numCams++;
+
         } 
       }  
     }
 
     $('.container').css({ width: numCams*960});
+    $('.name_container').css({ width: numCams*960});
 
   });
 

@@ -61,10 +61,22 @@ a#documentation {
 .container {
     overflow: hidden;
     width: auto;
+    display:block;
+}
+
+.name_container {
+	display:block;
+
+}
+
+.cam_name {
+	float: left;
+	width: 960px;
 }
 
 #vid_container {
     float: left;
     margin-top: -25px;
+    width: 960px;
 
 }
