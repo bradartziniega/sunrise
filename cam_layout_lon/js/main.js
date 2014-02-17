@@ -70,11 +70,31 @@ function initializeGrid(){
 
 
 function initialize() {
+
   var mapOptions = {
     center: new google.maps.LatLng(-34.397, 150.644),
     zoom: 8
   };
-  var map = new google.maps.Map(document.getElementById("map-canvas"),
-      mapOptions);
+
+  var map = new google.maps.Map(document.getElementById("map-canvas"), mapOptions);
+
+
+    var hotels = [
+        ['ibis Birmingham Airport', 52.452656, -1.730548, 4],
+        ['ETAP Birmingham Airport', 52.452527, -1.731644, 3],
+        ['ibis Birmingham City Centre', 52.475162, -1.897208, 2]
+        ];
+
+     for (var i = 0; i < hotels.length; i++) {
+         var marker = new google.maps.Marker({
+             position: new google.maps.LatLng(hotels[i][1], hotels[i][2]),
+             map: map,
+           //  icon: image,
+             title: hotels[i][0],
+             zIndex: hotels[i][3]
+         });
+         console.log(hotels[i][0]);
+     }
+
 }
 
